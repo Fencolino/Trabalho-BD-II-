@@ -11,7 +11,7 @@
 - Threads simulando o comportamento de transações reais com atrasos e reinícios.
 - Registro detalhado das operações no terminal, permitindo acompanhar o comportamento das transações.
 
-▶️ Como Executar
+# ▶️ Como Executar
 Clone o repositório:
 
 Copiar
