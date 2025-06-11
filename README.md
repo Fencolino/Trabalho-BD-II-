@@ -10,3 +10,18 @@
 - Transações com timestamp mais novo abortam.
 - Threads simulando o comportamento de transações reais com atrasos e reinícios.
 - Registro detalhado das operações no terminal, permitindo acompanhar o comportamento das transações.
+
+▶️ Como Executar
+Clone o repositório:
+
+bash
+Copiar
+Editar
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+cd nome-do-repositorio
+Execute o script:
+
+bash
+Copiar
+Editar
+python simulador.py
